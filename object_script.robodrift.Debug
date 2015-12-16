@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\team.o
+./debug\category.o
+./debug\addteam.o
+./debug\pugixml.o
+./debug\racewindow.o
+./debug\resultswindow.o
+./debug\qrc_files.o
+./debug\moc_mainwindow.o
+./debug\moc_addteam.o
+./debug\moc_racewindow.o
+./debug\moc_resultswindow.o
+);

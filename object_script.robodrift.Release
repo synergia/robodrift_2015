@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\team.o
+./release\category.o
+./release\addteam.o
+./release\pugixml.o
+./release\racewindow.o
+./release\resultswindow.o
+./release\qrc_files.o
+./release\moc_mainwindow.o
+./release\moc_addteam.o
+./release\moc_racewindow.o
+./release\moc_resultswindow.o
+);

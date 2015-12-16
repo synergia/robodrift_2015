@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<RC_ST Tytul="RC_STANDARD">
+	<checkpoint checkpoint="1269" />
+	<checkpoint checkpoint="2268" />
+	<checkpoint checkpoint="3375" />
+	<checkpoint checkpoint="6165" />
+	<checkpoint checkpoint="7218" />
+	<checkpoint checkpoint="7830" />
+	<checkpoint checkpoint="8586" />
+	<checkpoint checkpoint="9693" />
+	<checkpoint checkpoint="10647" />
+	<checkpoint checkpoint="11385" />
+</RC_ST>
+<RC Tytul="RC_ROBODRIFT">
+	<checkpoint checkpoint="1269" />
+	<checkpoint checkpoint="3033" />
+	<checkpoint checkpoint="5130" />
+	<checkpoint checkpoint="6282" />
+	<checkpoint checkpoint="7209" />
+	<checkpoint checkpoint="8037" />
+	<checkpoint checkpoint="9027" />
+	<checkpoint checkpoint="10368" />
+	<checkpoint checkpoint="11295" />
+	<checkpoint checkpoint="12159" />
+</RC>
+<AUTONOM Tytul="AUTONOM_ROBODRIFT">
+	<checkpoint checkpoint="450" />
+	<checkpoint checkpoint="1161" />
+	<checkpoint checkpoint="2448" />
+	<checkpoint checkpoint="3492" />
+	<checkpoint checkpoint="4284" />
+	<checkpoint checkpoint="4905" />
+	<checkpoint checkpoint="5886" />
+	<checkpoint checkpoint="7902" />
+	<checkpoint checkpoint="8739" />
+	<checkpoint checkpoint="9360" />
+</AUTONOM>

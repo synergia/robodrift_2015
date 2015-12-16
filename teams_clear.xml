@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<RC_ST Tytul="RC_STANDARD">
+	<team Team_Name="Bartek i koledzy" Car_Name="Błyskawica" Best_Race_Time="12195" />
+	<team Team_Name="Echo" Car_Name="Echo" Best_Race_Time="14301" />
+	<team Team_Name="Rambo Team" Car_Name="Sylwester" Best_Race_Time="11385" />
+</RC_ST>
+<RC Tytul="RC_ROBODRIFT">
+	<team Team_Name="Drużyna A" Car_Name="The Reaper" Best_Race_Time="13491" />
+	<team Team_Name="Delta" Car_Name="Lambda" Best_Race_Time="12159" />
+	<team Team_Name="SynerTeam" Car_Name="SynerRift" Best_Race_Time="12375" />
+</RC>
+<AUTONOM Tytul="AUTONOM_ROBODRIFT">
+	<team Team_Name="Drużyna A" Car_Name="The Reaper" Best_Race_Time="12483" />
+	<team Team_Name="ĄĘ" Car_Name="ĘĄ" Best_Race_Time="16209" />
+	<team Team_Name="Zwycięzcy" Car_Name="Czarny Koń" Best_Race_Time="9360" />
+</AUTONOM>
